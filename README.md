@@ -1,4 +1,4 @@
 # 🔥 Prometheus Fire Alarm System
-![Poster](https://user-images.githubusercontent.com/46389631/170764028-39a2ee27-849e-4c7b-96b5-4d9d201565e0.png)
+![Device Poster](https://user-images.githubusercontent.com/46389631/170832781-fd202c3a-0dc3-4c76-857c-3c3a94a17366.png)
 
 ---
