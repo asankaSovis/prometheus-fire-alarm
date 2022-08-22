@@ -1,0 +1,250 @@
+{
+  "uuid": "eb5a896493edb63baa4776a038128d42",
+  "path": "Offline/Design%20Project",
+  "name": "Design Project",
+  "content": "",
+  "created_at": "2022-03-31 13:13:37",
+  "updated_at": "2022-05-20 12:12:58",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "235280dd4e7eb1188e407f7adb9227a9",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "e6cf30cb23544c868b74b73605e2d101": 1,
+        "b350a98ec951465997ca02ccd00bf381": 1,
+        "e2ef34ca72b4472e9a6b8cb1ac2b8678": 1,
+        "fac4b5e71ddf4a80b8e5de070c391c4e": 1,
+        "da14d20935d7436b85bd44a44d04fe72": 2,
+        "854549890e054fd184be665b8989d645": 1,
+        "9391f9d5675b497683b317455643919c": 1,
+        "7ae9802f431c47e383fd8a198d82b504": 1,
+        "d25eddba8eb54d4781966019da46b070": 1,
+        "4e24eb501fdf47c9986c6708e9a1f7b6": 1,
+        "3285f6f6f7734075a2fdc8fdee060971": 1,
+        "4c5b457fcc80470caf57c718d9e6fec5": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "Buzzer",
+          1,
+          "BUZ-TH_BD12.0-P7.60-D0.6-FD",
+          "BUZZER1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C9900006103",
+            "BOM_Manufacturer Part": "FMQ-BUZZER2",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "4937126739894c52921de221c4760bbc",
+            "uuid": "9391f9d5675b497683b317455643919c"
+          }
+        ],
+        [
+          "4.7uFCap",
+          1,
+          "4.7UF C",
+          "C1",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "92a8064066ca43a09824f888d1d58a40",
+            "uuid": "b350a98ec951465997ca02ccd00bf381"
+          }
+        ],
+        [
+          "100NF",
+          1,
+          "100NF",
+          "C2",
+          {
+            "BOM_EasyEDA": "E72322",
+            "BOM_Supplier Part": "C72322",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "ReliaPro",
+            "BOM_Manufacturer Part": "100nF (104) ±20% 100V",
+            "puuid": "38c74149b81d48349c67d83970b9aba8",
+            "uuid": "4c5b457fcc80470caf57c718d9e6fec5"
+          }
+        ],
+        [
+          "22pF",
+          2,
+          "CAPACITOR 22PF CERAMIC",
+          "C3,C4",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "539eba6c1a77433295ac05b603193fab",
+            "uuid": "da14d20935d7436b85bd44a44d04fe72"
+          }
+        ],
+        [
+          "USB 2 TTL",
+          1,
+          "CONNECTOR7P",
+          "CN1",
+          {
+            "BOM_Supplier Part": "C89538",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "SUPU",
+            "BOM_Manufacturer Part": "425Connectors- -07P-2.5mmWhite Grey",
+            "puuid": "bb399aa944064c69988ab613fec5cf1d",
+            "uuid": "4e24eb501fdf47c9986c6708e9a1f7b6"
+          }
+        ],
+        [
+          "LED Indicator",
+          1,
+          "LED-TH_LED-DP2-2LED",
+          "D1",
+          {
+            "BOM_Supplier": "Digi-Key",
+            "BOM_Manufacturer": "VccLite",
+            "BOM_Manufacturer Part": "5600",
+            "BOM_Supplier Part": "L20325-ND",
+            "puuid": "6b79f28a1ea245909960e097d9c6813d",
+            "uuid": "7ae9802f431c47e383fd8a198d82b504"
+          }
+        ],
+        [
+          "10K",
+          1,
+          "10K",
+          "R1",
+          {
+            "BOM_Supplier": "",
+            "BOM_Supplier Part": "C385441",
+            "BOM_Manufacturer": "TyoHM",
+            "BOM_Manufacturer Part": "RN1/2WS10KΩFT/BA1",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "e7f488d55d9f447e9b9ccb2aa5604fa9",
+            "uuid": "854549890e054fd184be665b8989d645"
+          }
+        ],
+        [
+          "ATMega 328P",
+          1,
+          "ATMEGA328P",
+          "U1",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "c9f06d56152c46b3afe60412aab1fcc6",
+            "uuid": "e6cf30cb23544c868b74b73605e2d101"
+          }
+        ],
+        [
+          "LM7805",
+          1,
+          "TO-220-3_L10.0-W4.5-P2.54-L",
+          "U2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C845394",
+            "BOM_Manufacturer": "TF",
+            "BOM_Manufacturer Part": "LM7805",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "948e610cffd14df79f04c73832b1409b",
+            "uuid": "e2ef34ca72b4472e9a6b8cb1ac2b8678"
+          }
+        ],
+        [
+          "MQ-135",
+          1,
+          "MQ135_MODULO",
+          "U3",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "1462fba8955b44e5b5e6dcbd945c652e",
+            "uuid": "d25eddba8eb54d4781966019da46b070"
+          }
+        ],
+        [
+          "DHT-11",
+          1,
+          "DIP-DHT11",
+          "U5",
+          {
+            "BOM_Supplier Part": "C117051",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "AOSONG",
+            "BOM_Manufacturer Part": "DHT11",
+            "puuid": "68a59958dbe44ca1b7779fd6a52e9b5e",
+            "uuid": "3285f6f6f7734075a2fdc8fdee060971"
+          }
+        ],
+        [
+          "16MHZ",
+          1,
+          "HC-49S_L11.0-W4.6-P4.88",
+          "X1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C390745",
+            "BOM_Manufacturer": "JGHC",
+            "BOM_Manufacturer Part": "49SAC16000202060",
+            "puuid": "11ecf094a4db4c18b3c1811c94437918",
+            "uuid": "fac4b5e71ddf4a80b8e5de070c391c4e"
+          }
+        ]
+      ],
+      "updateTime": 1653028978,
+      "createTime": 1648712618,
+      "histories": [],
+      "created_at": "2022-03-31 13:13:38",
+      "updated_at": "2022-05-20 12:12:58"
+    },
+    {
+      "uuid": "e92aac082e9866a01184eb56c9d58783",
+      "puuid": "eb5a896493edb63baa4776a038128d42",
+      "title": "PCB_Design Project",
+      "filename": "PCB_Design Project.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "bb399aa944064c69988ab613fec5cf1d": 1,
+        "68a59958dbe44ca1b7779fd6a52e9b5e": 1,
+        "38c74149b81d48349c67d83970b9aba8": 1,
+        "4937126739894c52921de221c4760bbc": 1,
+        "92a8064066ca43a09824f888d1d58a40": 1,
+        "539eba6c1a77433295ac05b603193fab": 2,
+        "6b79f28a1ea245909960e097d9c6813d": 1,
+        "e7f488d55d9f447e9b9ccb2aa5604fa9": 1,
+        "c9f06d56152c46b3afe60412aab1fcc6": 1,
+        "948e610cffd14df79f04c73832b1409b": 1,
+        "1462fba8955b44e5b5e6dcbd945c652e": 1,
+        "11ecf094a4db4c18b3c1811c94437918": 1
+      },
+      "BOM": [],
+      "updateTime": 1648720235,
+      "createTime": 1648715584,
+      "histories": [],
+      "created_at": "2022-03-31 14:03:04",
+      "updated_at": "2022-03-31 15:20:35"
+    }
+  ],
+  "sort": [],
+  "title": "Design Project",
+  "foldername": "Design Project",
+  "schfilename": "Design Project.json",
+  "schfilemtime": 1653028978895
+}
