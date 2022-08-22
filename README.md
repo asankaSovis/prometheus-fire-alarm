@@ -20,7 +20,8 @@ There are four main sections and components for the proper functioning of the sy
 ## Prometheus Fire Alarm System
 **Prometheus Fire Alarm System** is a fire alarm system and an extinguishing system that allows real time monitoring via software. It can perform smart extinguishing on site while providing connectivity to multiple devices at the same time via the control panel.
 
-![Final Assembly](https://user-images.githubusercontent.com/46389631/185868729-a241fe1a-46b8-485a-bd56-5d62223f4bfc.jpeg)
+> ![Final Assembly](https://user-images.githubusercontent.com/46389631/185868729-a241fe1a-46b8-485a-bd56-5d62223f4bfc.jpeg)
+> The final assembled unit
 
 ## Components
 
@@ -114,7 +115,8 @@ This unit is responsible for communicating with the command panel. The communica
 -	Pitch: 2.54mm
 -	Module size: 36mm x 17.5mm
 
-![Components](https://user-images.githubusercontent.com/46389631/185901185-ccc0f130-7fa7-491f-b832-135f4ef87584.jpg)
+> ![Components](https://user-images.githubusercontent.com/46389631/185901185-ccc0f130-7fa7-491f-b832-135f4ef87584.jpg)
+> List of components
 
 ## Hardware Specifications
 -	12V input
@@ -129,13 +131,15 @@ This unit is responsible for communicating with the command panel. The communica
 
 *NOTE: These values are set on par with the international guidelines. Please refer to the links in the reference section for additional information*
 
-![Design drawio](https://user-images.githubusercontent.com/46389631/185869594-2c75dce2-67c4-4d6d-a136-386a9cc70195.png)
+> ![Design](https://user-images.githubusercontent.com/46389631/185869594-2c75dce2-67c4-4d6d-a136-386a9cc70195.png)
+> Design Architecture
 
 ## Limitations
 -	Transistor of power supply overheat with extended use making the readings unstable (Added a heat sink that extends the time)
 -	Accuracy of the Carbon dioxide sensor increase with time, thus it is not accurate at first
 -	The relays can have back EMFs that can damage the circuit
 
-[![Prometheus Fire Alarm System - Demonstration](https://user-images.githubusercontent.com/46389631/185864316-67f4a5a4-1769-4117-bcbc-bbf7ab7d6a54.png)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Prometheus Fire Alarm System - Demonstration")
+> [![Prometheus Fire Alarm System - Demonstration](https://user-images.githubusercontent.com/46389631/185864316-67f4a5a4-1769-4117-bcbc-bbf7ab7d6a54.png)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Prometheus Fire Alarm System - Demonstration")
+> Demonstration video of the final product
 
 `© 2022 Asanka Sovis`
