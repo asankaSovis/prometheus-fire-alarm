@@ -43,7 +43,7 @@ This is the brain of the system. It consists of a microcontroller which will be 
 This is the module that directly interact with the fire. This consists of two components as listed below.
 
 **Specifications**
-    1.	Smoke Sensor – Detect the existence of a fire.
+1.	Smoke Sensor – Detect the existence of a fire.
     -	Operating Voltage: 2.5V to 5.0V
     -	Power consumption: 150mA
     -	Detect/Measure: NH3, Nox, CO2, Alcohol, Benzene, Smoke
