@@ -129,7 +129,7 @@ This unit is responsible for communicating with the command panel. The communica
     * with humidity drops below 30%.
 - warning and turn on the valve at 85°C.
 
-*NOTE: These values are set on par with the international guidelines. Please refer to the links in the reference section for additional information*
+*NOTE: These values are set on par with the international guidelines.*
 
 > ![Design](https://user-images.githubusercontent.com/46389631/185869594-2c75dce2-67c4-4d6d-a136-386a9cc70195.png)
 > 
