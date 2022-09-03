@@ -143,4 +143,6 @@ This unit is responsible for communicating with the command panel. The communica
 > [![Prometheus Fire Alarm System - Demonstration](https://user-images.githubusercontent.com/46389631/185864316-67f4a5a4-1769-4117-bcbc-bbf7ab7d6a54.png)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Prometheus Fire Alarm System - Demonstration")
 > Demonstration video of the final product
 
+*NOTE: You can find additional documents such as reports, schematics and gerber files in the [Additional Material](https://github.com/asankaSovis/prometheus-fire-alarm/tree/main/Additional%20Material) folder.*
+
 `© 2022 Asanka Sovis`
