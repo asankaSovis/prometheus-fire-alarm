@@ -17,6 +17,8 @@ There are four main sections and components for the proper functioning of the sy
 4. Software system
 5. structural design
 
+*NOTE: You can use the [Emulator code](https://github.com/asankaSovis/prometheus-fire-alarm/tree/main/Emulator/sketch_feb24b) to emulate a real world devices for [command panel](https://github.com/asankaSovis/prometheus-command-panel) testing purposes.*
+
 ## Prometheus Fire Alarm System
 **Prometheus Fire Alarm System** is a fire alarm system and an extinguishing system that allows real time monitoring via software. It can perform smart extinguishing on site while providing connectivity to multiple devices at the same time via the control panel.
 
