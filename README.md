@@ -142,6 +142,8 @@ This unit is responsible for communicating with the command panel. The communica
 - Accuracy of the Carbon dioxide sensor increase with time, thus it is not accurate at first
 - The relays can have back EMFs that can damage the circuit
 
+## Demonstration
+
 > [![Prometheus Fire Alarm System - Demonstration](https://user-images.githubusercontent.com/46389631/192273259-fb92e6f6-b95d-4e68-a962-5505359a668c.png)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Prometheus Fire Alarm System - Demonstration")
 > Demonstration video of the final product
 
