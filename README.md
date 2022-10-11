@@ -3,7 +3,7 @@
 
 ---
 
-## Project Introduction
+## 🔥 Project Introduction
 
 **Prometheus** is a next generation fire alarm system Designed to take fire safety to the next level. This fire alarm system is designed to detect, indicate and extinguish fire by using necessary precautions. The system consists of three main stages:
 1. Fire sensing and extinguishing system
@@ -19,13 +19,13 @@ There are four main sections and components for the proper functioning of the sy
 
 *NOTE: You can use the [Emulator code](https://github.com/asankaSovis/prometheus-fire-alarm/tree/main/Emulator/sketch_feb24b) to emulate a real world device for [command panel](https://github.com/asankaSovis/prometheus-command-panel) testing purposes. In it, all input sensors are replaced by potentiometers.*
 
-## Prometheus Fire Alarm System
+## 🔥 Prometheus Fire Alarm System
 **Prometheus Fire Alarm System** is a fire alarm system and an extinguishing system that allows real time monitoring via software. It can perform smart extinguishing on site while providing connectivity to multiple devices at the same time via the control panel.
 
 > ![Final Assembly](https://user-images.githubusercontent.com/46389631/185868729-a241fe1a-46b8-485a-bd56-5d62223f4bfc.jpeg)
 > The final assembled unit
 
-## Components
+## ⚙️ Components
 
 ### 1. Control Unit
 This is the brain of the system. It consists of a microcontroller which will be controlling the whole system. This also interfaces between all other components. The microcontroller used is the Atmega 328p This has a good count of pins and is suitable for the task. It will be powerful enough to control the system.
@@ -120,12 +120,12 @@ This unit is responsible for communicating with the command panel. The communica
 > ![Components](https://user-images.githubusercontent.com/46389631/185901185-ccc0f130-7fa7-491f-b832-135f4ef87584.jpg)
 > List of components
 
-## Hardware Specifications
+## 🛠️ Hardware Specifications
 - 12V input
 - Minimum 500mA
 - Micro USB (If connecting to the Control Panel Software)
 
-## Operational Specifications
+## 💾 Operational Specifications
 - Device issues a warning
     * when carbondioxide goes above 1000PPM.
     * with humidity drops below 30%.
@@ -137,12 +137,12 @@ This unit is responsible for communicating with the command panel. The communica
 > 
 > Design Architecture
 
-## Limitations
+## 🎢 Limitations
 - Transistor of power supply overheat with extended use making the readings unstable (Added a heat sink that extends the time)
 - Accuracy of the Carbon dioxide sensor increase with time, thus it is not accurate at first
 - The relays can have back EMFs that can damage the circuit
 
-## Demonstration
+## 📊 Demonstration
 
 > [![Prometheus Fire Alarm System - Demonstration](https://user-images.githubusercontent.com/46389631/192273259-fb92e6f6-b95d-4e68-a962-5505359a668c.png)](https://youtu.be/5h3k6kufkHo "Prometheus Fire Alarm System - Demonstration")
 > Demonstration video of the final product
